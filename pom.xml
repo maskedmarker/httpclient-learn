@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>ch01-httpclient4</module>
+        <module>ch02-httpclient4-async</module>
     </modules>
 
     <properties>
